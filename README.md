@@ -101,8 +101,6 @@ popx/
 
 
 🧑‍💻 How to Run Locally
-1. Clone the Repository
-2. https://github.com/Ronit12792/educase.git
 
 cd popx-react
 
